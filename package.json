@@ -16,7 +16,7 @@
     "device-brightness",
     "brightness"
   ],
-  "author": "Calvin Huang <calvin.peak@capslock.tw> (https://github.com/Calvin-Huang)",
+  "author": "Sandy",
   "license": "MIT",
   "devDependencies": {
     "babel-eslint": "^7.2.3",
@@ -26,5 +26,7 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^5.0.1",
     "eslint-plugin-react": "^7.0.1"
-  }
+  },
+  "homepage": "https://github.com/sandy105/react-native-device-brightness#readme"
+
 }
