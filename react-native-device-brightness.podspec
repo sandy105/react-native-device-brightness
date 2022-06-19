@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.license      = package["license"]
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/sandy105/react-native-device-brightness", :tag => "v#{s.version}" }
-  s.source_files  = "ios/*.{h,m}"
+  s.source_files  = "ios/RNDeviceBrightness/*.{h,m}"
   s.dependency "React-Core"
 end

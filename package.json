@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Calvin-Huang/react-native-device-brightness"
+    "url": "https://github.com/sandy105/react-native-device-brightness"
   },
   "keywords": [
     "react-component",
